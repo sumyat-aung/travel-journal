@@ -11,13 +11,13 @@
 <br/>
 <br/>
 
-![](Demo/large-screen.png)
+![](Demo/-screen.png)
 <br/>
 <br/>
 
 
 <div align="center">
-<img src="Demo/small-screen.png" width="300">
+<img src="Demo/-screen.png" width="300">
 </div>
 
 <br/>
